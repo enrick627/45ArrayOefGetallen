@@ -40,6 +40,7 @@ namespace ArrayOefGetallen
             // BEREKEN  Als gebruiker getalen heeft ingevoerd
             //          DAN  zet getalen in volgorde
             Console.WriteLine();
+            Array.Sort(getal);
             for (int i = 0; i < 5; i++)
             {
                 

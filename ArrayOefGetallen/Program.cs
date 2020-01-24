@@ -39,8 +39,10 @@ namespace ArrayOefGetallen
             }
             // BEREKEN  Als gebruiker getalen heeft ingevoerd
             //          DAN  zet getalen in volgorde
+            Console.WriteLine();
             for (int i = 0; i < 5; i++)
             {
+                
                 Console.WriteLine(getal[i]);
             }
             // TOON     de getaal gesorteerd in volgorde
